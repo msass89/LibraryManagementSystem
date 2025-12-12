@@ -1,0 +1,14 @@
+c:\.Net\Course 2\ImproveWithCopilotLibrary\bin\Debug\net9.0\ImproveWithCopilotLibrary.exe
+c:\.Net\Course 2\ImproveWithCopilotLibrary\bin\Debug\net9.0\ImproveWithCopilotLibrary.deps.json
+c:\.Net\Course 2\ImproveWithCopilotLibrary\bin\Debug\net9.0\ImproveWithCopilotLibrary.runtimeconfig.json
+c:\.Net\Course 2\ImproveWithCopilotLibrary\bin\Debug\net9.0\ImproveWithCopilotLibrary.dll
+c:\.Net\Course 2\ImproveWithCopilotLibrary\bin\Debug\net9.0\ImproveWithCopilotLibrary.pdb
+c:\.Net\Course 2\ImproveWithCopilotLibrary\obj\Debug\net9.0\ImproveWithCopilotLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\.Net\Course 2\ImproveWithCopilotLibrary\obj\Debug\net9.0\ImproveWithCopilotLibrary.AssemblyInfoInputs.cache
+c:\.Net\Course 2\ImproveWithCopilotLibrary\obj\Debug\net9.0\ImproveWithCopilotLibrary.AssemblyInfo.cs
+c:\.Net\Course 2\ImproveWithCopilotLibrary\obj\Debug\net9.0\ImproveWithCopilotLibrary.csproj.CoreCompileInputs.cache
+c:\.Net\Course 2\ImproveWithCopilotLibrary\obj\Debug\net9.0\ImproveWithCopilotLibrary.dll
+c:\.Net\Course 2\ImproveWithCopilotLibrary\obj\Debug\net9.0\refint\ImproveWithCopilotLibrary.dll
+c:\.Net\Course 2\ImproveWithCopilotLibrary\obj\Debug\net9.0\ImproveWithCopilotLibrary.pdb
+c:\.Net\Course 2\ImproveWithCopilotLibrary\obj\Debug\net9.0\ImproveWithCopilotLibrary.genruntimeconfig.cache
+c:\.Net\Course 2\ImproveWithCopilotLibrary\obj\Debug\net9.0\ref\ImproveWithCopilotLibrary.dll
